@@ -1,0 +1,9 @@
+hr {
+    margin: 0;
+    border-top: solid 2px #858585;
+}
+.rodape {
+    background-color: #f9f9f9;
+    padding: 1em;
+    color: black;
+}
